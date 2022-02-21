@@ -7,7 +7,7 @@ You can see my portfolio in this repo:
 
 ![https://github.com/allifelacerda/Portfolio](https://img.icons8.com/fluency/48/000000/portfolio.png)
 
-[![name](link to image on GH)](https://github.com/allifelacerda/Portfolio)
+[![name](https://img.icons8.com/fluency/48/000000/portfolio.png)](https://github.com/allifelacerda/Portfolio)
 
 
 ⚡Skills:
