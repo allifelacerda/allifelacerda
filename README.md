@@ -3,7 +3,7 @@
 I have a degree in Computer Science and i constantly study to become a Data Scientist.
 
 
-You can see my portfolio in this repo: ![here](https://github.com/allifelacerda/Portfolio)
+You can see my portfolio in this repo: ![https://github.com/allifelacerda/Portfolio]()
 
 
 ⚡Skills:
