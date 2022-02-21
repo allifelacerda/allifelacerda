@@ -14,7 +14,7 @@ I have a degree in Computer Science and i constantly study to become a Data Scie
 
 
 ☎️ Get in touch?
-![https://www.linkedin.com/in/allifelacerda/](https://icons8.com/icon/CqSHNNO0qG0w/linkedin---in-logo-used-for-professional-networking)
+![https://www.linkedin.com/in/allifelacerda/](<a href="https://icons8.com/icon/CqSHNNO0qG0w/linkedin---in-logo-used-for-professional-networking,">LinkedIN - IN logo used for professional networking, icon by Icons8</a>)
 
 
 <!--
