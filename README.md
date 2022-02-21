@@ -20,6 +20,7 @@ You can see my portfolio in this repo:
 
 
 ☎️ Get in touch?
+
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/allifelacerda/)
 
 [![](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:allife.dev@gmail.com)
