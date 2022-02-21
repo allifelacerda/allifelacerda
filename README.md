@@ -14,7 +14,10 @@ I have a degree in Computer Science and i constantly study to become a Data Scie
 
 
 ☎️ Get in touch?
+
 ![https://www.linkedin.com/in/allifelacerda/](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)
+
+![mailto:allife.dev@gmail.com](https://img.icons8.com/color/48/000000/gmail-new.png)
 
 
 <!--
