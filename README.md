@@ -4,6 +4,7 @@ I have a degree in Computer Science and i constantly study to become a Data Scie
 
 
 You can see my portfolio in this repo:
+
 ![https://github.com/allifelacerda/Portfolio](https://img.icons8.com/fluency/48/000000/portfolio.png)
 
 
